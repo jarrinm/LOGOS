@@ -1,2 +1,170 @@
-<?xml version='1.0' encoding='utf-8'?>
-<tv><programme start="20250615190000 +0000" stop="20250615210000 +0000" channel="canal1"><title lang="es">Macará vs Orense</title><desc lang="es">	Partido en vivo por la Liga Pro desde Ambato</desc></programme><programme start="20250615190000 +0000" stop="20250615210000 +0000" channel="canal2"><title lang="es">Macará vs Orense</title><desc lang="es">	Partido en vivo por la Liga Pro desde Ambato</desc></programme><programme start="20250615190000 +0000" stop="20250615210000 +0000" channel="canal3"><title lang="es">Macará vs Orense</title><desc lang="es">	Partido en vivo por la Liga Pro desde Ambato</desc></programme><programme start="20250615190000 +0000" stop="20250615210000 +0000" channel="canal4"><title lang="es">Macará vs Orense</title><desc lang="es">	Partido en vivo por la Liga Pro desde Ambato</desc></programme><programme start="20250618190000 +0000" stop="20250618210000 +0000" channel="canal1"><title lang="es">LDUQ vs Barcelona SC</title><desc lang="es">Partido estelar desde el estadio Rodrigo Paz Delgado</desc></programme><programme start="20250618190000 +0000" stop="20250618210000 +0000" channel="canal2"><title lang="es">LDUQ vs Barcelona SC</title><desc lang="es">Partido estelar desde el estadio Rodrigo Paz Delgado</desc></programme><programme start="20250618190000 +0000" stop="20250618210000 +0000" channel="canal3"><title lang="es">LDUQ vs Barcelona SC</title><desc lang="es">Partido estelar desde el estadio Rodrigo Paz Delgado</desc></programme><programme start="20250618190000 +0000" stop="20250618210000 +0000" channel="canal4"><title lang="es">LDUQ vs Barcelona SC</title><desc lang="es">Partido estelar desde el estadio Rodrigo Paz Delgado</desc></programme></tv>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Manual-EPG">
+  <channel id="canal1">
+    <display-name>CANAL1</display-name>
+  </channel>
+  <channel id="canal2">
+    <display-name>CANAL2</display-name>
+  </channel>
+  <channel id="canal3">
+    <display-name>CANAL3</display-name>
+  </channel>
+  <channel id="canal4">
+    <display-name>CANAL4</display-name>
+  </channel>
+  <programme start="20250616130000 +0000" stop="20250616150000 +0000" channel="canal1">
+    <title>ECDF 7/10</title>
+    <desc>Todo el análisis futbolero con la compañía de invitados especiales</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250616150000 +0000" stop="20250616153000 +0000" channel="canal1">
+    <title>Show Copa Italia</title>
+    <desc>Las acciones más destacadas de los partidos de la Copa Italia</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250616153000 +0000" stop="20250616160000 +0000" channel="canal1">
+    <title>Deliciosamente sano</title>
+    <desc>Un programa dedicado a la gastronomía y la nutrición</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250616160000 +0000" stop="20250616180000 +0000" channel="canal1">
+    <title>Eliminatorias CONMEBOL Reprise</title>
+    <desc>Reprise</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250616180000 +0000" stop="20250616190000 +0000" channel="canal1">
+    <title>Línea de 3</title>
+    <desc>Línea de 3</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250616190000 +0000" stop="20250616210000 +0000" channel="canal1">
+    <title>ECDF 7/10</title>
+    <desc>Todo el análisis futbolero con la compañía de invitados especiales</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250616210000 +0000" stop="20250616220000 +0000" channel="canal1">
+    <title>Línea de 3</title>
+    <desc>Línea de 3</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250617000000 +0000" stop="20250617020000 +0000" channel="canal1">
+    <title>Macará vs Orense</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250617000000 +0000" stop="20250617020000 +0000" channel="canal2">
+    <title>Macará vs Orense</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250617000000 +0000" stop="20250617020000 +0000" channel="canal3">
+    <title>Macará vs Orense</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250617000000 +0000" stop="20250617020000 +0000" channel="canal4">
+    <title>Macará vs Orense</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250619000000 +0000" stop="20250619020000 +0000" channel="canal1">
+    <title>LDUQ vs Barcelona SC</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250619000000 +0000" stop="20250619020000 +0000" channel="canal2">
+    <title>LDUQ vs Barcelona SC</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250619000000 +0000" stop="20250619020000 +0000" channel="canal3">
+    <title>LDUQ vs Barcelona SC</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250619000000 +0000" stop="20250619020000 +0000" channel="canal4">
+    <title>LDUQ vs Barcelona SC</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250621000000 +0000" stop="20250621020000 +0000" channel="canal1">
+    <title>Libertad FC vs Técnico Universitario</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250621000000 +0000" stop="20250621020000 +0000" channel="canal2">
+    <title>Libertad FC vs Técnico Universitario</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250621000000 +0000" stop="20250621020000 +0000" channel="canal3">
+    <title>Libertad FC vs Técnico Universitario</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250621000000 +0000" stop="20250621020000 +0000" channel="canal4">
+    <title>Libertad FC vs Técnico Universitario</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250621190000 +0000" stop="20250621210000 +0000" channel="canal1">
+    <title>El Nacional vs U Católica</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250621190000 +0000" stop="20250621210000 +0000" channel="canal2">
+    <title>El Nacional vs U Católica</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250621190000 +0000" stop="20250621210000 +0000" channel="canal3">
+    <title>El Nacional vs U Católica</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250621190000 +0000" stop="20250621210000 +0000" channel="canal4">
+    <title>El Nacional vs U Católica</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250621213000 +0000" stop="20250621233000 +0000" channel="canal1">
+    <title>Emelec vs Delfin</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250621213000 +0000" stop="20250621233000 +0000" channel="canal2">
+    <title>Emelec vs Delfin</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250621213000 +0000" stop="20250621233000 +0000" channel="canal3">
+    <title>Emelec vs Delfin</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250621213000 +0000" stop="20250621233000 +0000" channel="canal4">
+    <title>Emelec vs Delfin</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250622000000 +0000" stop="20250622020000 +0000" channel="canal1">
+    <title>Macará vs Vinotinto</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250622000000 +0000" stop="20250622020000 +0000" channel="canal2">
+    <title>Macará vs Vinotinto</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250622000000 +0000" stop="20250622020000 +0000" channel="canal3">
+    <title>Macará vs Vinotinto</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250622000000 +0000" stop="20250622020000 +0000" channel="canal4">
+    <title>Macará vs Vinotinto</title>
+    <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+</tv>
