@@ -62,9 +62,9 @@
     <desc>Partido en vivo por la Liga Pro</desc>
     <category>Fútbol</category>
   </programme>
-  <programme start="20250617000000 +0000" stop="20250617020000 +0000" channel="canal4">
-    <title>Macará vs Orense</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
+  <programme start="20250616050000 +0000" stop="20250617050000 +0000" channel="canal4">
+    <title>TVC</title>
+    <desc>CANAL SOLO PARA DEMO</desc>
     <category>Fútbol</category>
   </programme>
   <programme start="20250619000000 +0000" stop="20250619020000 +0000" channel="canal1">
@@ -78,11 +78,6 @@
     <category>Fútbol</category>
   </programme>
   <programme start="20250619000000 +0000" stop="20250619020000 +0000" channel="canal3">
-    <title>LDUQ vs Barcelona SC</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250619000000 +0000" stop="20250619020000 +0000" channel="canal4">
     <title>LDUQ vs Barcelona SC</title>
     <desc>Partido en vivo por la Liga Pro</desc>
     <category>Fútbol</category>
@@ -102,11 +97,6 @@
     <desc>Partido en vivo por la Liga Pro</desc>
     <category>Fútbol</category>
   </programme>
-  <programme start="20250621000000 +0000" stop="20250621020000 +0000" channel="canal4">
-    <title>Libertad FC vs Técnico Universitario</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
   <programme start="20250621190000 +0000" stop="20250621210000 +0000" channel="canal1">
     <title>El Nacional vs U Católica</title>
     <desc>Partido en vivo por la Liga Pro</desc>
@@ -118,11 +108,6 @@
     <category>Fútbol</category>
   </programme>
   <programme start="20250621190000 +0000" stop="20250621210000 +0000" channel="canal3">
-    <title>El Nacional vs U Católica</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250621190000 +0000" stop="20250621210000 +0000" channel="canal4">
     <title>El Nacional vs U Católica</title>
     <desc>Partido en vivo por la Liga Pro</desc>
     <category>Fútbol</category>
@@ -142,11 +127,6 @@
     <desc>Partido en vivo por la Liga Pro</desc>
     <category>Fútbol</category>
   </programme>
-  <programme start="20250621213000 +0000" stop="20250621233000 +0000" channel="canal4">
-    <title>Emelec vs Delfin</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
   <programme start="20250622000000 +0000" stop="20250622020000 +0000" channel="canal1">
     <title>Macará vs Vinotinto</title>
     <desc>Partido en vivo por la Liga Pro</desc>
@@ -158,11 +138,6 @@
     <category>Fútbol</category>
   </programme>
   <programme start="20250622000000 +0000" stop="20250622020000 +0000" channel="canal3">
-    <title>Macará vs Vinotinto</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250622000000 +0000" stop="20250622020000 +0000" channel="canal4">
     <title>Macará vs Vinotinto</title>
     <desc>Partido en vivo por la Liga Pro</desc>
     <category>Fútbol</category>
