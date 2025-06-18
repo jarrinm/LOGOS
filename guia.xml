@@ -12,134 +12,65 @@
   <channel id="canal4">
     <display-name>CANAL4</display-name>
   </channel>
-  <programme start="20250616130000 +0000" stop="20250616150000 +0000" channel="canal1">
-    <title>ECDF 7/10</title>
-    <desc>Todo el análisis futbolero con la compañía de invitados especiales</desc>
+  <programme start="20250618190000 +0000" stop="20250618210000 +0000" channel="canal1">
+    <title>Mundial de Clubes FIFA: Real Madrid vs Al Hilal</title>
+    <desc>Transmisión de Real Madrid vs Al Hilal en Mundial de Clubes 2025</desc>
     <category>Fútbol</category>
   </programme>
-  <programme start="20250616150000 +0000" stop="20250616153000 +0000" channel="canal1">
-    <title>Show Copa Italia</title>
-    <desc>Las acciones más destacadas de los partidos de la Copa Italia</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250616153000 +0000" stop="20250616160000 +0000" channel="canal1">
-    <title>Deliciosamente sano</title>
-    <desc>Un programa dedicado a la gastronomía y la nutrición</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250616160000 +0000" stop="20250616180000 +0000" channel="canal1">
-    <title>Eliminatorias CONMEBOL Reprise</title>
-    <desc>Reprise</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250616180000 +0000" stop="20250616190000 +0000" channel="canal1">
-    <title>Línea de 3</title>
-    <desc>Línea de 3</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250616190000 +0000" stop="20250616210000 +0000" channel="canal1">
-    <title>ECDF 7/10</title>
-    <desc>Todo el análisis futbolero con la compañía de invitados especiales</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250616210000 +0000" stop="20250616220000 +0000" channel="canal1">
-    <title>Línea de 3</title>
-    <desc>Línea de 3</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250617000000 +0000" stop="20250617020000 +0000" channel="canal1">
-    <title>Macará vs Orense</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250617000000 +0000" stop="20250617020000 +0000" channel="canal2">
-    <title>Macará vs Orense</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250617000000 +0000" stop="20250617020000 +0000" channel="canal3">
-    <title>Macará vs Orense</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250616050000 +0000" stop="20250617050000 +0000" channel="canal4">
-    <title>TVC</title>
-    <desc>CANAL SOLO PARA DEMO</desc>
+  <programme start="20250618220000 +0000" stop="20250619000000 +0000" channel="canal1">
+    <title>Mundial de Clubes FIFA: Pachuca vs Salzburg</title>
+    <desc>Transmisión de Pachuca vs Salzburg en Mundial de Clubes 2025</desc>
     <category>Fútbol</category>
   </programme>
   <programme start="20250619000000 +0000" stop="20250619020000 +0000" channel="canal1">
-    <title>LDUQ vs Barcelona SC</title>
+    <title>Liga Pro: LDUQ vs Barcelona SC</title>
     <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250618190000 +0000" stop="20250618210000 +0000" channel="canal2">
+    <title>Mundial de Clubes FIFA: Real Madrid vs Al Hilal</title>
+    <desc>Transmisión de Real Madrid vs Al Hilal en Mundial de Clubes 2025</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250618220000 +0000" stop="20250619000000 +0000" channel="canal2">
+    <title>Mundial de Clubes FIFA: Pachuca vs Salzburg</title>
+    <desc>Transmisión de Pachuca vs Salzburg en Mundial de Clubes 2025</desc>
     <category>Fútbol</category>
   </programme>
   <programme start="20250619000000 +0000" stop="20250619020000 +0000" channel="canal2">
-    <title>LDUQ vs Barcelona SC</title>
+    <title>Liga Pro: LDUQ vs Barcelona SC</title>
     <desc>Partido en vivo por la Liga Pro</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250618190000 +0000" stop="20250618210000 +0000" channel="canal3">
+    <title>Mundial de Clubes FIFA: Real Madrid vs Al Hilal</title>
+    <desc>Transmisión de Real Madrid vs Al Hilal en Mundial de Clubes 2025</desc>
+    <category>Fútbol</category>
+  </programme>
+  <programme start="20250618220000 +0000" stop="20250619000000 +0000" channel="canal3">
+    <title>Mundial de Clubes FIFA: Pachuca vs Salzburg</title>
+    <desc>Transmisión de Pachuca vs Salzburg en Mundial de Clubes 2025</desc>
     <category>Fútbol</category>
   </programme>
   <programme start="20250619000000 +0000" stop="20250619020000 +0000" channel="canal3">
-    <title>LDUQ vs Barcelona SC</title>
+    <title>Liga Pro: LDUQ vs Barcelona SC</title>
     <desc>Partido en vivo por la Liga Pro</desc>
     <category>Fútbol</category>
   </programme>
-  <programme start="20250621000000 +0000" stop="20250621020000 +0000" channel="canal1">
-    <title>Libertad FC vs Técnico Universitario</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
+  <programme start="20250618190000 +0000" stop="20250618210000 +0000" channel="canal4">
+    <title>Mundial de Clubes FIFA: Real Madrid vs Al Hilal</title>
+    <desc>Transmisión de Real Madrid vs Al Hilal en Mundial de Clubes 2025</desc>
     <category>Fútbol</category>
   </programme>
-  <programme start="20250621000000 +0000" stop="20250621020000 +0000" channel="canal2">
-    <title>Libertad FC vs Técnico Universitario</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
+  <programme start="20250618220000 +0000" stop="20250619000000 +0000" channel="canal4">
+    <title>Mundial de Clubes FIFA: Pachuca vs Salzburg</title>
+    <desc>Transmisión de Pachuca vs Salzburg en Mundial de Clubes 2025</desc>
     <category>Fútbol</category>
   </programme>
-  <programme start="20250621000000 +0000" stop="20250621020000 +0000" channel="canal3">
-    <title>Libertad FC vs Técnico Universitario</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250621190000 +0000" stop="20250621210000 +0000" channel="canal1">
-    <title>El Nacional vs U Católica</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250621190000 +0000" stop="20250621210000 +0000" channel="canal2">
-    <title>El Nacional vs U Católica</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250621190000 +0000" stop="20250621210000 +0000" channel="canal3">
-    <title>El Nacional vs U Católica</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250621213000 +0000" stop="20250621233000 +0000" channel="canal1">
-    <title>Emelec vs Delfin</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250621213000 +0000" stop="20250621233000 +0000" channel="canal2">
-    <title>Emelec vs Delfin</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250621213000 +0000" stop="20250621233000 +0000" channel="canal3">
-    <title>Emelec vs Delfin</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250622000000 +0000" stop="20250622020000 +0000" channel="canal1">
-    <title>Macará vs Vinotinto</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250622000000 +0000" stop="20250622020000 +0000" channel="canal2">
-    <title>Macará vs Vinotinto</title>
-    <desc>Partido en vivo por la Liga Pro</desc>
-    <category>Fútbol</category>
-  </programme>
-  <programme start="20250622000000 +0000" stop="20250622020000 +0000" channel="canal3">
-    <title>Macará vs Vinotinto</title>
+  <programme start="20250619000000 +0000" stop="20250619020000 +0000" channel="canal4">
+    <title>Liga Pro: LDUQ vs Barcelona SC</title>
     <desc>Partido en vivo por la Liga Pro</desc>
     <category>Fútbol</category>
   </programme>
 </tv>
+
